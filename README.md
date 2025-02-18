@@ -19,4 +19,4 @@ Desenvolvedor front-end em aprendizado, apaixonado pela tecnologia ❤️
 </div>
 
 # 📊 GitHub Status:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoJunior18)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoJunior17)](https://github.com/anuraghazra/github-readme-stats)
