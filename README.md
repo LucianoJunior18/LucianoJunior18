@@ -1,6 +1,6 @@
 
 # 💫 Sobre min:
-Desenvolvedor front-end em aprendizado, apaixonado pela tecnologia ❤️
+Desenvolvedor front-end apaixonado pela tecnologia ❤️
 
 
 ## 🌐 Contato:
