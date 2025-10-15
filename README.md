@@ -1,9 +1,7 @@
 # 👋 Olá, eu sou o Luciano Junior!
 
 💻 **Desenvolvedor Full-Stack** apaixonado por tecnologia e sempre em busca de novos desafios.  
-
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Descomplica Faculdade**.  
-
 🐝 Integrante do programa **Programadores do Amanhã**.  
 
 ---
@@ -22,7 +20,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 🚀 Tecnologias que uso
@@ -37,6 +34,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
+---
+
+## 📂 Projetos em Destaque
+
+<p align="center">
+  ** Meu Portifolio
+  <a href="[https://github.com/LucianoJunior18/nome-do-projeto-1](https://lucianojunior-portifolio.vercel.app/)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoJunior18&repo=nome-do-projeto-1&theme=dracula" />
+  </a>
+  ** Caique-Barbe-Shop
+  <a href="[https://github.com/LucianoJunior18/nome-do-projeto-2](https://caique-barbe-shop.vercel.app/)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoJunior18&repo=nome-do-projeto-2&theme=dracula" />
+  </a>
+</p>
 
 ---
 
@@ -54,7 +65,7 @@
 ## 🌱 Um pouco mais sobre mim
 
 - 💡 Sempre em busca de **aprender novas tecnologias** e aprimorar minhas habilidades.    
-- ⚙️ Atualmente estudando  **Node.js** .  
+- ⚙️ Atualmente estudando **Node.js**.  
 - ☕ Café e código são minha combinação favorita!  
 
 ---
