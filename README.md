@@ -1,16 +1,18 @@
 # 👋 Olá, eu sou o Luciano Junior!
 
 💻 **Desenvolvedor Full-Stack** apaixonado por tecnologia e sempre em busca de novos desafios.  
+
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Descomplica Faculdade**.  
+
 🐝 Integrante do programa **Programadores do Amanhã**.  
 
 ---
 
 ## 🌐 Contato
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jr_oliveiiraa/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-oliveira-93389a228/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/71987416836)
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-oliveira-93389a228/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/71987416836)
+</div>
 
 ---
 
