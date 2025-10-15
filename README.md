@@ -31,3 +31,46 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+---
+
+## 📂 Projetos em Destaque
+
+<p align="center">
+  <a href="https://lucianojunior-portifolio.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoJunior18&repo=portfolio&theme=dracula" alt="Meu Portfólio"/>
+  </a>
+  <a href="https://caique-barbe-shop.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoJunior18&repo=caique-barbe-shop&theme=dracula" alt="Caique Barbe Shop"/>
+  </a>
+</p>
+
+<p align="center">
+  🌐 <a href="https://lucianojunior-portifolio.vercel.app/" target="_blank">Acessar Portfólio</a> |
+  💈 <a href="https://caique-barbe-shop.vercel.app/" target="_blank">Acessar Caique Barbe Shop</a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/LucianoJunior18">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucianoJunior18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoJunior18&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+## 🌱 Um pouco mais sobre mim
+
+- 💡 Sempre em busca de **aprender novas tecnologias** e aprimorar minhas habilidades.    
+- ⚙️ Atualmente estudando **Node.js**.  
+- ☕ Café e código são minha combinação favorita!  
+
+---
+
+✨ *“A melhor maneira de prever o futuro é criá-lo.”*  
