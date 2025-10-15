@@ -36,23 +36,21 @@
 
 ---
 
-## 📂 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <a href="https://lucianojunior-portifolio.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoJunior18&repo=portfolio&theme=dracula" alt="Meu Portfólio"/>
-  </a>
-  <a href="https://caique-barbe-shop.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoJunior18&repo=caique-barbe-shop&theme=dracula" alt="Caique Barbe Shop"/>
-  </a>
-</p>
+💼 **[Meu Portfólio Pessoal](https://lucianojunior-portifolio.vercel.app/)**  
+Um site criado para apresentar quem sou, minhas habilidades e os projetos que venho desenvolvendo.  
+Construído com **JavaScript**, **CSS** , **HTML** muito carinho 💙  
 
-<p align="center">
-  🌐 <a href="https://lucianojunior-portifolio.vercel.app/" target="_blank">Acessar Portfólio</a> |
-  💈 <a href="https://caique-barbe-shop.vercel.app/" target="_blank">Acessar Caique Barbe Shop</a>
-</p>
+✂️ **[Caique Barber Shop](https://caique-barbe-shop.vercel.app/)**  
+Aplicação moderna simulando um site de barbearia, com design responsivo e foco na experiência do usuário.  
+Feito com **JavaScript** ,**HTML** e **CSS** e .  
 
----
+🌐 **[Mega-Net](https://github.com/LucianoJunior18/mega-net)**  
+Projeto desenvolvido para simular uma provedora de internet, com foco em **design limpo**, **responsividade** e **navegação intuitiva**.  
+O site apresenta planos, informações e um layout moderno que reflete uma empresa digital real.  
+Criado com **JavaScript**, **HTML** e **CSS** e .  
+
 
 ## 📊 Estatísticas do GitHub
 
