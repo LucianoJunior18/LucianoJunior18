@@ -65,13 +65,3 @@ Criado com **JavaScript**, **HTML** e **CSS** e .
 </div>
 
 ---
-
-## 🌱 Um pouco mais sobre mim
-
-- 💡 Sempre em busca de **aprender novas tecnologias** e aprimorar minhas habilidades.    
-- ⚙️ Atualmente estudando **Node.js**.  
-- ☕ Café e código são minha combinação favorita!  
-
----
-
-✨ *“A melhor maneira de prever o futuro é criá-lo.”*  
