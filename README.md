@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Full-Stack** apaixonado por tecnologia e sempre em busca de novos desafios.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre) na **Descomplica Faculdade**.  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre) na **Descomplica Faculdade**.  
 
 🐝 Integrante do programa **Programadores do Amanhã**.  
 
@@ -35,16 +35,16 @@
 
 💼 **[Meu Portfólio Pessoal](https://lucianojunior-portifolio.vercel.app/)**  
 Um site criado para apresentar quem sou, minhas habilidades e os projetos que venho desenvolvendo.  
-Construído com **JavaScript**, **CSS** , **HTML** muito carinho 💙  
+Construído com **JavaScript** , **CSS** , **HTML**   
 
 ✂️ **[Caique Barber Shop](https://caique-barbe-shop.vercel.app/)**  
 Aplicação moderna simulando um site de barbearia, com design responsivo e foco na experiência do usuário.  
-Feito com **JavaScript** ,**HTML** e **CSS** e .  
+Feito com **JavaScript** , **HTML** , **CSS** .  
 
-🌐 **[Mega-Net](https://github.com/LucianoJunior18/mega-net)**  
-Projeto desenvolvido para simular uma provedora de internet, com foco em **design limpo**, **responsividade** e **navegação intuitiva**.  
-O site apresenta planos, informações e um layout moderno que reflete uma empresa digital real.  
-Criado com **JavaScript**, **HTML** e **CSS** e .  
+🗂️ **[TaskFlow](https://taskflow-to-do-list.vercel.app/)**  
+Aplicação de lista de tarefas desenvolvida com front-end e back-end próprios, com integração entre cliente e servidor.
+Permite criação, edição, exclusão e gerenciamento de tarefas de forma dinâmica. 
+Criado com **JavaScript**, **HTML** , **CSS** , **Node.js** , **Express** , **Sequelize** , **SQLite**  .  
 
 
 ## 📊 Estatísticas do GitHub
